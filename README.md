@@ -1,7 +1,7 @@
 # pointless2048
 
-AI for the game [2048](https://github.com/gabrielecirulli/2048).
-Modified to be extremly simple and pointless to play.
+AI for the game [2048](https://github.com/gabrielecirulli/2048).  
+Modified to be extremly simple and pointless to play.  
 The original AI project that this one is based on can be found [here](https://github.com/ov3y/2048-AI).
 
 See it in action [here](http://PotcFdk.github.io/2048-AI/). (Hit the auto-run button to let the AI attempt to solve it by itself)
