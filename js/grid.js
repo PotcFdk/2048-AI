@@ -203,8 +203,8 @@ Grid.prototype.move = function (direction) {
           // Update the score
           score += merged.value;
 
-          // The mighty 2048 tile
-          if (merged.value === 2048) {
+          // The mighty over-2048 tiles
+          if (merged.value >= 2048) {
             won = true;
           }
         } else {
